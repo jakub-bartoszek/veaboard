@@ -1,3 +1,3 @@
 export const Display = () => {
- return (<>AAAAAAAA</>)
+ return (<></>)
 }
