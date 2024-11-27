@@ -1,8 +1,8 @@
-# Veabord
+# Veaboard
 
 The page showcases a minimalist keyboard built entirely with Tailwind. It allows users to click on the keys with a mouse, highlighting its interactive and clean design. A simple yet polished project, perfect for demonstrating the capabilities of Tailwind.
 
-[App is live here.](https://jakub-bartoszek.github.io/veabord)
+[App is live here.](https://jakub-bartoszek.github.io/veaboard)
 
 ## Table of Contents
 
@@ -16,8 +16,8 @@ The page showcases a minimalist keyboard built entirely with Tailwind. It allows
 1. Clone the repository:
 
    ```
-   git clone https://github.com/jakub-bartoszek/veabord.git
-   cd veabord
+   git clone https://github.com/jakub-bartoszek/veaboard.git
+   cd veaboard
    ```
 
 2. Install dependencies:

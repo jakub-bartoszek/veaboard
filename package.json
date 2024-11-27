@@ -1,7 +1,7 @@
 {
- "name": "veabord",
+ "name": "veaboard",
  "private": true,
- "homepage": "https://jakub-bartoszek.github.io/Veabord/",
+ "homepage": "https://jakub-bartoszek.github.io/veaboard/",
  "version": "0.0.0",
  "type": "module",
  "scripts": {
